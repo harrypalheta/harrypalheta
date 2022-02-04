@@ -6,7 +6,7 @@ Developer / DevOps / Gamer
 
 **Social Media:**
 
-[![GitHub](icons/github.png)](https://github.com/rexrod)
+[![GitHub](icons/github.png)](https://github.com/harrypalheta)
 [![Twitter](icons/twitter.png)](https://twitter.com/harry_palheta)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/harrysonpalheta/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/harrysonpalheta/)
@@ -41,5 +41,5 @@ Developer / DevOps / Gamer
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexrod&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrypalheta&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
