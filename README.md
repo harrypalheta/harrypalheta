@@ -1,4 +1,4 @@
-# rexrod
+# Harry Palheta
 
 <img src="images/me.png" align="right" />
 
