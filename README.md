@@ -1,7 +1,5 @@
 # Harry Palheta
 
-<img src="images/me.png" align="right" />
-
 Developer / DevOps / Gamer
 
 ---
